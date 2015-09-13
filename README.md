@@ -1,6 +1,6 @@
 #Starter Web Project
 
-This is a simple website project for showing how to use GIT and GITUB together.  Ading a line for rebaSING EXAMPLE, then more changes from myfeature branch too.
+This is a simple website project for showing how to use GIT and GITUB together.  Ading a line for rebaSING EXAMPLE, then more changes from myfeature branch too. Updating for emergency fix after staching.
 
 ##Introduction
 
