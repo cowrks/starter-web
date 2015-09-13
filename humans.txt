@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Eugene Pretorius	eugene.kzn@gmail.com	@TEST
 
 # THANKS
 
