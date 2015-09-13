@@ -1,6 +1,6 @@
 #Starter Web Project
 
-This is a simple website project for showing how to use GIT and GITUB together.
+This is a simple website project for showing how to use GIT and GITUB together.  Ading a line for rebaSING EXAMPLE
 
 ##Introduction
 
